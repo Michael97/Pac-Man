@@ -1,0 +1,15 @@
+#ifndef __GAMESTATES_H__
+#define __GAMESTATES_H__
+
+typedef enum GameStates
+{
+	SPLASHSCREEN,
+	MAINMENU,
+	INGAME,
+	PAUSEMENU,
+	DEADMENU,
+	HIGHSCORESMENU,
+	CONTROLSMENU
+}GameState;
+
+#endif //__GAMESTATES_H__

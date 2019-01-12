@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{bc07352d-cab5-4e5b-97eb-14ad5e9f5c6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header FIles">
+      <UniqueIdentifier>{fe6dfed1-7190-4f9e-a4ee-de0bc7eece65}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PacManController.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Grid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ghost.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Blinky.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AStar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Step.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PathScore.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Clyde.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Inky.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pinky.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TargetTileSprite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Collider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerStatistics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UserInterface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GhostAnimation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerAnimation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HighScores.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Grid.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="PacManController.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="CoordTranslator.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="UserInterface.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="Ghost.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="Blinky.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="AStar.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="Step.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="PathScore.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="Pinky.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="Inky.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="Clyde.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="TargetTileSprite.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="Collider.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="HighScores.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerStatistics.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="EntityState.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="GameState.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="GhostState.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="MovementDirections.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="GhostAnimation.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerAnimation.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>
